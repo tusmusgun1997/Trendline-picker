@@ -1,11 +1,7 @@
 from requests import Session
 import json
 from datetime import datetime, timedelta
-import pymongo
 from datetime import datetime
-import pandas as pd
-import time
-import numpy as np
 from requests import Session
 from MongoInit.mongo_init import initialize_mongo
 
